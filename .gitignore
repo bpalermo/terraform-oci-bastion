@@ -16,3 +16,5 @@ scripts/tesseract.sh
 
 # visual code
  **/.vscode/*
+
+.idea
